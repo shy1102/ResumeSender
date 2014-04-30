@@ -1,0 +1,13 @@
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\bin\Debug\newTest.dll
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\bin\Debug\newTest.pdb
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\bin\Debug\newTest.dll.mdb
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\bin\Debug\newTest.newTest.apk
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\bin\Debug\newTest.newTest-Signed.apk
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\newTest.dll
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\newTest.pdb
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\android\bin\newTest.newTest.apk
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\res\layout\main.xml
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\res\values\strings.xml
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\res\drawable\icon.png
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\R.cs.flag
+C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\uploadflags.txt
