@@ -60,8 +60,35 @@ namespace newTest
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050006
+			public const int btnChooseResume = 2131034118;
+			
+			// aapt resource value: 0x7f050008
+			public const int btnDoneSelect = 2131034120;
+			
+			// aapt resource value: 0x7f050007
+			public const int btnSend = 2131034119;
+			
+			// aapt resource value: 0x7f050002
+			public const int editTextEmail = 2131034114;
+			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int editTextMultiLineText = 2131034112;
+			
+			// aapt resource value: 0x7f050004
+			public const int editTextPhone = 2131034116;
+			
+			// aapt resource value: 0x7f050009
+			public const int listViewResumeList = 2131034121;
+			
+			// aapt resource value: 0x7f050005
+			public const int progressBar1 = 2131034117;
+			
+			// aapt resource value: 0x7f050003
+			public const int textViewEmail = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int textViewPhone = 2131034113;
 			
 			static Id()
 			{
@@ -78,6 +105,9 @@ namespace newTest
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int SelectPanel = 2130903041;
 			
 			static Layout()
 			{

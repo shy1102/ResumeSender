@@ -1,1 +1,2 @@
 newTest.MainActivity;newtest.MainActivity
+newTest.Choose_Resume;newtest.Choose_Resume

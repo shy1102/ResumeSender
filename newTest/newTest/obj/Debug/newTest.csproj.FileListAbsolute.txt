@@ -11,3 +11,17 @@ C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\res\values\
 C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\res\drawable\icon.png
 C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\R.cs.flag
 C:\Users\Shawn-User-Ultrabook\Desktop\Apps\newTest\newTest\obj\Debug\uploadflags.txt
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\newTest.dll
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\bin\Debug\newTest.dll
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\bin\Debug\newTest.pdb
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\bin\Debug\newTest.dll.mdb
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\bin\Debug\newTest.newTest.apk
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\bin\Debug\newTest.newTest-Signed.apk
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\newTest.pdb
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\android\bin\newTest.newTest.apk
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\layout\main.xml
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\values\strings.xml
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\drawable\icon.png
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\layout\selectpanel.xml
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\R.cs.flag
+C:\Users\21\Desktop\ResumeSender\newTest\newTest\obj\Debug\uploadflags.txt
