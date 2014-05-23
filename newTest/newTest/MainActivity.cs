@@ -18,6 +18,7 @@ namespace newTest
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
+
 			View selectPanel = FindViewById<View> (Resource.Layout.SelectPanel);
 			// Get our button from the layout resource,
 			// and attach an event to it
@@ -30,13 +31,9 @@ namespace newTest
 				Choose_Resume_view = new Intent(this, typeof(Choose_Resume));
 				StartActivity (Choose_Resume_view);
 			};
-
-			/*
-			public void readyToSend () {
-				btnSend.
-				SetContentView (Resource.Layout.Main);
-			}
-			*/
+		}
+		protected override void OnPause(){
+			base.OnPause();
 
 		}
 	}

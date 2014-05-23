@@ -56,6 +56,11 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Assets\a_1.pdf" />
+    <None Include="Assets\a_2.pdf" />
+    <None Include="Assets\a_3.pdf" />
+    <None Include="Assets\a_4.pdf" />
+    <None Include="Assets\a_5.pdf" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
