@@ -1,13 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="newTest\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="newTest\Choose_Resume.cs">
     <Files>
-      <File FileName="newTest\MainActivity.cs" Line="13" Column="3" />
+      <File FileName="newTest\MainActivity.cs" Line="20" Column="1" />
+      <File FileName="newTest\Choose_Resume.cs" Line="26" Column="33" />
+      <File FileName="newTest\Resources\receivers.cs" Line="32" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.newTest MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.newTest MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Release="emulator-5554" />
 </Properties>

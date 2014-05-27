@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="newTest.newTest">
-  <uses-sdk android:minSdkVersion="15" />
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="15" />
   <application android:label="newTest" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:label="newTest" android:name="newtest.MainActivity">
       <intent-filter>
@@ -9,6 +9,7 @@
       </intent-filter>
     </activity>
     <activity android:label="Choose_Resume" android:name="newtest.Choose_Resume" />
+    <activity android:label="receivers" android:name="newtest.receivers" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="newTest.newTest.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

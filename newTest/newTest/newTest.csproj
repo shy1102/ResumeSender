@@ -29,6 +29,7 @@
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>None</AndroidLinkMode>
     <ConsolePause>false</ConsolePause>
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>full</DebugType>
@@ -51,14 +52,12 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Choose_Resume.cs" />
+    <Compile Include="Resources\receivers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
-    <None Include="Assets\a_1.pdf" />
-    <None Include="Assets\a_2.pdf" />
-    <None Include="Assets\a_3.pdf" />
     <None Include="Assets\a_4.pdf" />
     <None Include="Assets\a_5.pdf" />
   </ItemGroup>
@@ -67,6 +66,21 @@
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\drawable\Icon.png" />
     <AndroidResource Include="Resources\layout\SelectPanel.axml" />
+    <AndroidResource Include="Resources\layout\receivers.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\a_1.pdf">
+      <DeployService-Deploy>True</DeployService-Deploy>
+      <DeployService-HasPathReferences>True</DeployService-HasPathReferences>
+    </AndroidAsset>
+    <AndroidAsset Include="Assets\a_2.pdf">
+      <DeployService-Deploy>True</DeployService-Deploy>
+      <DeployService-HasPathReferences>True</DeployService-HasPathReferences>
+    </AndroidAsset>
+    <AndroidAsset Include="Assets\a_3.pdf">
+      <DeployService-Deploy>True</DeployService-Deploy>
+      <DeployService-HasPathReferences>True</DeployService-HasPathReferences>
+    </AndroidAsset>
+  </ItemGroup>
 </Project>

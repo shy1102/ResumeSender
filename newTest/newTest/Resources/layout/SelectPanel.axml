@@ -5,16 +5,18 @@
     p1:minHeight="25px"
     p1:layout_width="match_parent"
     p1:layout_height="match_parent"
-    p1:id="@+id/linearLayout1">
+    p1:id="@+id/linearLayout1"
+    p1:showDividers="none">
+    <Button
+        p1:text="Send"
+        p1:layout_width="wrap_content"
+        p1:layout_height="match_parent"
+        p1:id="@+id/buttonSend"
+        p1:layout_marginTop="0.0dp" />
     <ListView
         p1:minWidth="25px"
         p1:minHeight="25px"
-        p1:layout_width="wrap_content"
-        p1:layout_height="match_parent"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
         p1:id="@+id/listView1" />
-    <TextView
-        p1:text="Text"
-        p1:layout_width="wrap_content"
-        p1:layout_height="match_parent"
-        p1:id="@+id/textView1" />
 </LinearLayout>

@@ -1,0 +1,14 @@
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\bin\Release\newTest.dll
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\bin\Release\newTest.pdb
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\bin\Release\newTest.newTest.apk
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\bin\Release\newTest.newTest-Signed.apk
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\newTest.dll
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\newTest.pdb
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\android\bin\newTest.newTest.apk
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\res\layout\main.xml
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\res\values\strings.xml
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\res\drawable\icon.png
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\res\layout\selectpanel.xml
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\res\layout\receivers.xml
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\R.cs.flag
+C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Release\uploadflags.txt
