@@ -54,3 +54,4 @@ C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\layout\selectp
 C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Debug\R.cs.flag
 C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Debug\uploadflags.txt
 C:\Users\shawn\Desktop\ResumeSender\newTest\newTest\obj\Debug\res\layout\receivers.xml
+C:\Users\syoon\Desktop\xmarin\ResumeSender\newTest\newTest\obj\Debug\res\layout\receivers.xml

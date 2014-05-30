@@ -31,14 +31,29 @@ namespace newTest
 			lw.ChoiceMode = ChoiceMode.Multiple;
 			current = lw;
 			lw.TextFilterEnabled = true;
+			//lw.Touch += onTouch;
+			lw.Touch += test;
+			//lw.OnTouchEvent += onTouch;
+			lw.PointToRowId (0, 0);
+
 			send = FindViewById<Button> (Resource.Id.buttonSend);
 			lw.Adapter = ListAdapter;
+			lw.VerticalScrollBarEnabled = true;
 			Console.Out.WriteLine(ListAdapter.AreAllItemsEnabled().ToString());
-			lw.ItemClick += OnListItemClick;
-			lw.ItemSelected += OnListItemClick2;
+			//lw.ItemClick += OnListItemClick2;
+			//lw.ItemSelected += OnListItemClick2;
 			send.Enabled = true;
 			send.Click += OnSendButtonClicked;
 		}
+		public void test(object sender, View.TouchEventArgs e){
+			var x = (int)e.Event.GetX();
+			var y = (int)e.Event.GetY();
+			var z = (int)current.PointToRowId (x,y);
+			current.SetItemChecked (z, true);
+			send.Text = z.ToString();
+		}
+
+
 		public static List<string> getPdfList(){
 			return selectedPdfs;
 		}
@@ -57,7 +72,8 @@ namespace newTest
 			Intent receivers = new Intent(this, typeof(receivers));
 			StartActivity (receivers);
 		}
-		protected void OnListItemClick2(object sender, Android.Widget.AdapterView.ItemSelectedEventArgs e){
+		/*
+		protected void OnListItemClick2(object sender,  e){
 			var listview = sender as ListView;
 			if (listview.IsItemChecked (e.Position)) {
 				current.SetItemChecked (e.Position, false);
@@ -71,6 +87,7 @@ namespace newTest
 			}
 			listview.RefreshDrawableState ();
 		} 
+		*/
 		protected void OnListItemClick(object sender, Android.Widget.AdapterView.ItemClickEventArgs e){
 			var listview = sender as ListView;
 			if (current.IsItemChecked (e.Position)) {
